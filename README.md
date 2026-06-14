@@ -1,1 +1,1 @@
-echo "# physical" >> README.md
+# physical
